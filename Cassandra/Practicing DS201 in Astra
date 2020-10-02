@@ -1,0 +1,9 @@
+Exercise 1 – Install and Start Apache Cassandra™
+- Using the astra database as a service
+https://astra.datastax.com/org/78d4705b-02c2-4a19-9381-9de9dc42ea39/database/0a53fadd-c405-4349-8c58-cb7979b0da96/connect
+
+Exercise 2 – CQL
+In this exercise, you will:
+• Create a keyspace for KillrVideo
+• Create a table to store video metadata
+
